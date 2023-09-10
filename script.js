@@ -1,1 +1,0 @@
-function showAlert() { alert('hola esta es una laerta de javascript'); }
